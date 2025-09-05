@@ -17,3 +17,23 @@ npm i -g @nestjs/cli
 ```
 docker-compose up -d
 ```
+# Run in Development
+
+1. Clone the repository  
+2. Run:
+
+```bash
+npm install
+```
+
+3. Make sure Nest CLI is installed:
+
+```bash
+npm i -g @nestjs/cli
+```
+
+4. Start the database:
+
+```bash
+docker-compose up -d
+```
